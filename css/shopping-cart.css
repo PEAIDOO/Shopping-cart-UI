@@ -1,0 +1,123 @@
+.product-orders {
+    display: inline-flex;
+}
+
+.heading {
+    margin-top: 7%;
+}
+
+.sizes {
+    font-weight: 400;
+}
+
+.products,
+.order {
+    font-size: 13px;
+}
+
+.btn-sizes {
+    font-size: 10px;
+    background: #d4d4d5;
+    color: black;
+    border: none;
+    font-weight: 600;
+    margin: 2px;
+}
+
+.size-pad {
+    padding: 8px;
+}
+
+.star-container {
+    font-size: 12px;
+    text-align: center;
+}
+
+.number {
+    font-size: 12px;
+    padding: 1px 10px;
+    font-weight: 700;
+    background: #eef2f4;
+    color: black;
+    border: none;
+    margin-left: 10px;
+
+}
+
+.number,
+.rate-number {
+    margin-top: -30px;
+}
+
+.rate-number {
+    font-size: 12px;
+    font-weight: 700;
+    padding: 2px 10px;
+    background: #eef2f4;
+    color: black;
+    border: none;
+}
+
+.rate {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 300px;
+    position: relative;
+}
+
+.yellow-dash {
+    padding: 1px;
+    width: 20px;
+    background: orange;
+    margin-left: 60px;
+
+}
+
+.free-shipping {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 10px;
+    border: none;
+    background: black;
+    color: white;
+
+}
+
+.card {
+    height: 500px;
+    margin-bottom: 30px;
+    border: none;
+}
+
+a.btn {
+    background-color: black;
+    border: none;
+    pointer-events: none;
+}
+
+.card-title {
+    font-size: 13px;
+    text-align: center;
+}
+
+.figure1 {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.para-1,
+.para-2 {
+    font-size: small;
+    border-bottom: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.para-2 {
+    margin-bottom: -80;
+}
